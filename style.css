@@ -164,7 +164,7 @@ section {
 .menu .box-container .box {
     text-align: center;
     border: var(--border);
-    padding: 5rem;
+    padding: 6rem;
     cursor: pointer;
 }
 
